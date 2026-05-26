@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there! ᛚᛟᚾᛖ ᚹᛟᛚᚠ
 
-<!--
-**Thyagovz/Thyagovz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Thyago, a Full Stack Developer based in Brazil.
 
-Here are some ideas to get you started:
+I build web applications focused on performance, scalability, and clean user experience. If I can imagine it, I can probably build it and ship it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across the full stack, developing complete solutions from interface to backend architecture and database design.
+
+My current tech stack includes React, Next.js, Node.js, C#, Python, and both relational and non-relational databases. I also work with REST APIs, Git, and modern development workflows.
+
+Currently, I’m learning GSAP and Three.js to build more interactive and immersive web experiences, and also studying Data Engineering to expand my knowledge in data systems and pipelines.
+
+## Tech Stack
+
+- Front-end: React, Next.js, HTML, CSS, JavaScript
+- Back-end: Node.js, C#, Python
+- Databases: PostgreSQL, MySQL, MongoDB
+- Tools: REST APIs
+
+## How to reach me
+
+- LinkedIn: [https://www.linkedin.com/in/thyagovz]
+- Email: flooddk@icloud.com
+
+## Fun facts
+
+- I enjoy building side projects from scratch
+- I’m always exploring new technologies and architectures
+- I like turning ideas into real, usable products
