@@ -1,4 +1,4 @@
-# Hey there! ᛚᛟᚾᛖ ᚹᛟᛚᚠ
+# Hey there! ᛉ 
 
 I’m Thyago, a Full Stack Developer based in Brazil.
 
@@ -15,11 +15,11 @@ Currently, I’m learning GSAP and Three.js to build more interactive and immers
 - Front-end: React, Next.js, HTML, CSS, JavaScript
 - Back-end: Node.js, C#, Python
 - Databases: PostgreSQL, MySQL, MongoDB
-- Tools: REST APIs
+- Tools: Excel, Figma.
 
 ## How to reach me
 
-- LinkedIn: [https://www.linkedin.com/in/thyagovz]
+- LinkedIn: https://www.linkedin.com/in/thyagovz
 - Email: flooddk@icloud.com
 
 ## Fun facts
@@ -27,3 +27,5 @@ Currently, I’m learning GSAP and Three.js to build more interactive and immers
 - I enjoy building side projects from scratch
 - I’m always exploring new technologies and architectures
 - I like turning ideas into real, usable products
+
+ᛚᛟᚾᛖ ᚹᛟᛚᚠ
