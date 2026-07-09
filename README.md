@@ -8,7 +8,12 @@ I work across the full stack, developing complete solutions from interface to ba
 
 My current tech stack includes React, Next.js, Node.js, C#, Python, and both relational and non-relational databases. I also work with REST APIs, Git, and modern development workflows.
 
-Currently, I’m learning GSAP and Three.js to build more interactive and immersive web experiences, and also studying Data Engineering to expand my knowledge in data systems and pipelines.
+### Current Focus
+* **Architecture:** Currently following the **[Roadmap do Arquiteto](https://www.linkedin.com/in/renatoaugustofs/)** by Renato Augusto to master high-level software architecture and scalable systems.
+* **Creative Dev:** Learning **GSAP** and **Three.js** to build interactive and immersive web experiences.
+* **Data:** Studying **Data Engineering** to expand my knowledge in data systems and pipelines.
+
+---
 
 ## Tech Stack
 
